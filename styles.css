@@ -1,0 +1,55 @@
+body {
+  background-color: grey;
+}
+
+
+img{
+border-style:solid;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: cube;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (grey) on hover */
+li a:hover {
+  background-color: grey;
+}
